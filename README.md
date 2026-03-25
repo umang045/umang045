@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | DevOps Learner | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;DevOps+Enthusiast;Docker+%7C+AWS+%7C+Kubernetes;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;DevOps+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -50,18 +50,6 @@
 - System Design Basics
 - API Optimization
 - Debugging & Performance Improvement
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
-</p>
 
 ---
 
