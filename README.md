@@ -65,44 +65,10 @@
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🏆 Featured Projects
-
-### 🔹 Full Stack Project (React + Node + MySQL)
-- Authentication system
-- Role-based access control
-- API integration
-
-### 🔹 DevOps Project
-- Dockerized full-stack app
-- CI/CD pipeline using GitHub Actions
-- AWS EC2 deployment
-
-### 🔹 Real-time Chat App
-- Socket.io integration
-- Live messaging system
-
----
-
 ## 📫 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/umang-rathod)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
 </p>
