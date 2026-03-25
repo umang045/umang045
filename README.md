@@ -56,7 +56,7 @@
 ## 📫 Connect With Me
 
 <p>
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/umang-rathod)">
+  <a href="https://www.linkedin.com/in/umang-rathod">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
 </p>
